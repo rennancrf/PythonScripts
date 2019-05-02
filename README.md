@@ -1,2 +1,2 @@
 # PythonScripts
-Repositório de scripts feitos em python para estudos
+Repositório de scripts feitos em python para estudos da linguagem
